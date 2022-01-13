@@ -5,6 +5,30 @@
     "version": "0.2.0",
     "configurations": [
     
+        
+        {
+            "name": "Python C++ Debugger",
+            "type": "pythoncpp",
+            "request": "launch",
+            "pythonLaunchName": "Python: Current File",
+            "cppAttachName": "'(Windows) Attach' or '(gdb) Attach'"
+        },
+
+        {
+            "name": "Python C++ Debugger",
+            "type": "pythoncpp",
+            "request": "launch",
+            "pythonLaunchName": "Python: Current File",
+            "cppAttachName": "'(Windows) Attach' or '(gdb) Attach'"
+        },
+        {
+            "name": "Python C++ Debugger",
+            "type": "pythoncpp",
+            "request": "launch",
+            "pythonLaunchName": "Python: Current File",
+            "cppAttachName": "'(Windows) Attach' or '(gdb) Attach'"
+        },
+    
     
         
     {
