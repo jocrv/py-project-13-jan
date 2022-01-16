@@ -57,5 +57,47 @@ databricks: notebooks, jar, python //
 hadoop
 iteration & conditionals: filter, foreach, if condition
 
+iteration & conditionals: filter, foreach, if condition
+inside the data factory:
+factory resources: copy data could exactly how the data are run, if have some failed you need to run the axxure function 1
+serveless computations, 
+run the axxure function given the data breaks,
+copy data
+general: name Copy Data 1
+// so yout nedd to do the configurations of parameters, 
+source,, activities o copy need some parameters:
+origin, the data set 
+Use query: table 
+sink dataset: ActorFile  // inside the data lake 
+source dataset: actor table (preview data select)
+copy behavior: none
+run the pipeline, debug 
+they use the integration time from axxure to extract and copy
+they given the time, the quantities of lines, time of to do this pipeline
+// go to inside the raw, inside the data lake 
+container
+files
+my sql 
+name: actor_20222... etc 
+the pipeline run
+// you can automator the file from data factory, so parameter and automactilly do this. 
+// we create the pipeline and commit 
 
-engenharia de variáveis 
+// create one schedule inside the data factory, 
+// inside the pipeline
+add trigger
+name: trigger etl moni 
+type: schedule, tumbling window, event
+time xxone: gmt -3 
+recurrence: every 5hours 
+activated yes
+or no to do this manually to activate 
+this pipeline will run all this time 5h in point
+trigger runs: dispare a lot of pipelines
+trigger run to see all 
+// data factory 
+
+
+
+variables engineer
+    
